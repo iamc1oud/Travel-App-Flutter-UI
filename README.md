@@ -3,7 +3,7 @@
 A sample flutter app for travel app design inspiration.
 
 # Screenshot
-<img src="screenshot/1.png">
+<img src="screenshot/1.png" height=720>
 <img src="screenshot/2.png">
 
 ## Getting Started
