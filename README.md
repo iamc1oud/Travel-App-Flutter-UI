@@ -1,6 +1,9 @@
 # destinationapp
 
-A new Flutter project.
+A sample flutter app for travel app design inspiration.
+
+# Screenshot
+
 
 ## Getting Started
 
